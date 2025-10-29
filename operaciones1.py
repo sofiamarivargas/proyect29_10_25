@@ -6,4 +6,4 @@ if operacion == 1:
     print(f"La suma de {num1} y {num2} da {num1 + num2}")
 
 if operacion == 3:
-    print(f"El producto de {num1} y {num2} da {num1 * num2}")
+    print(f"La multiplicación de {num1} y {num2} da {num1 * num2}")
